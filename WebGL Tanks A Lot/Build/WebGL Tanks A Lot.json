@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Tanks a lot",
+"dataUrl": "WebGL Tanks A Lot.data.unityweb",
+"asmCodeUrl": "WebGL Tanks A Lot.asm.code.unityweb",
+"asmMemoryUrl": "WebGL Tanks A Lot.asm.memory.unityweb",
+"asmFrameworkUrl": "WebGL Tanks A Lot.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
